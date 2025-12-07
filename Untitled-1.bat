@@ -1,0 +1,1 @@
+ c:\Users\aaron\OneDrive\Escritorio\nueva propuesta\html-index-html\.github c:\Users\aaron\OneDrive\Escritorio\nueva propuesta\html-index-html\.gitignore c:\Users\aaron\OneDrive\Escritorio\nueva propuesta\html-index-html\app.js c:\Users\aaron\OneDrive\Esc
